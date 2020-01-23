@@ -1,3 +1,5 @@
 # hello-world
-Intro project
-Bruno recommended edits for Cramer-Wold theorem
+
+Hello, I am Bruno Velloso. Economics PhD Canditate at Columbia University.
+
+
